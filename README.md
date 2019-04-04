@@ -42,6 +42,7 @@ Awesome software projects sub-categorized by focus.
 - [Welly](https://github.com/agile-geoscience/welly) – ![Python](media/icon/python.png) Analyzing and processing well log data
 - [Striplog](https://github.com/agile-geoscience/striplog) – ![Python](media/icon/python.png) Display lithological and stratigraphic logs for wells and outcrop
 - [FuzzyLAS](http://fuzzylas.appspot.com/) – Web app for looking up curve mnemonics
+- [dlispy](https://github.com/teradata/dlispy) - ![Python](media/icon/python.png) Parser for DLIS-files (Digital Log Interchange Standard), a binary format for Well Log Data
 ### Simulation and Modelling
 - [Fatiando a Terra](https://www.fatiando.org/) – ![Python](media/icon/python.png) Modelling and inversion in geophysics
 - [SimPEG](http://simpeg.xyz) – ![Python](media/icon/python.png) Simulation and parameter estimation in geophysics
